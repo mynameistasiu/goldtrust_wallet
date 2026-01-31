@@ -5,5 +5,6 @@
   "/dashboard": "pages/dashboard.js",
   "/buy-code": "pages/buy-code.js",
   "/": "pages/index.js",
-  "/register": "pages/register.js"
+  "/history": "pages/history.js",
+  "/withdraw": "pages/withdraw.js"
 }
